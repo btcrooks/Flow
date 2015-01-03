@@ -1,0 +1,10 @@
+{
+  "title": "Flow",
+  "icon": "flow_volume_icon.icns",
+  "background": "flow_dmg_background.png",
+  "icon-size": 80,
+  "contents": [
+    { "x": 194, "y": 300, "type": "link", "path": "Flow" },
+    { "x": 442, "y": 300, "type": "link", "path": "/Applications" },
+  ]
+
