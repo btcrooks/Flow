@@ -4,7 +4,7 @@
   "background": "flow_dmg_background.png",
   "icon-size": 80,
   "contents": [
-    { "x": 194, "y": 300, "type": "file", "path": "Flow" },
-    { "x": 442, "y": 300, "type": "link", "path": "/Library/Services" }
+    { "x": 194, "y": 300, "type": "file", "path": "Flow/Flow Capture.workflow" },
+    { "x": 442, "y": 300, "type": "link", "path": "~/Library/Services" }
   ]
 }
