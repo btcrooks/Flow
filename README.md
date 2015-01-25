@@ -1,7 +1,7 @@
 Flow
 ====
 
-Taking and organizing better screenshots on Mac OS X.
+Flow is a **AppleScript** and **Bash** script that allows you to name screenshots before taking them.
 
 #### Installation ####
 1. Download Flow and unzip.
@@ -10,8 +10,6 @@ Taking and organizing better screenshots on Mac OS X.
 4. Open **System Prefrences**, click on **Keyboard** and then the **Shortcuts** tab
 5. Select **Services** in the left panel.
 6. Select **Flow Capture** underneath the **General Section** (usually the last item on the list.)
-7. Click on **Add Shortcut** the the right of **Flow Capture** and enter your desired shortcut combination, for example Command + Shift + 2 (⌘⇧2).
-
-![Image](https://copy.com/eHNuDYlNdHkbDiJG)
-
-####That's all! Welcome to Flow!####
+7. Doible click on **Add Shortcut** the the right of **Flow Capture** and enter your desired shortcut combination, for example Command + Shift + 2 (⌘⇧2).
+![Mac OS X Prefrences](https://copy.com/eHNuDYlNdHkbDiJG)  
+8. That's all. **Welcome to Flow**. Happy screenshoting!
