@@ -1,7 +1,7 @@
 Flow
 ====
 
-Flow is a **AppleScript** and **Bash** script bundled within in a automator workflow that allows you to pre-name screenshots.
+Flow is a **AppleScript** and **Bash** script bundled within an automator workflow that allows you to pre-name screenshots.
 
 #### Installation ####
 1. Download Flow and unzip.
